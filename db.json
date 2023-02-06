@@ -76,29 +76,13 @@
     "vybavenost": [
       {
         "hodnota": "-"
-      },
-      {
-        "nazov": "WC"
-      },
-      {
-        "nazov": null,
-        "hodnota": "16"
-      },
-      {
-        "nazov": "Šatne, Šatňové skrinky",
-        "hodnota": null
-      },
-      {
-        "nazov": null,
-        "hodnota": null
-      },
-      {},
-      null
+      }
     ],
     "ostatneUdaje": {
       "kapacitaKupaliska": 3250,
       "vodnaPlochaKupaliska": null,
-      "oddychovaPlocha": null
+      "oddychovaPlocha": null,
+      "testValue": "test"
     },
     "prevadzkovatelia": [
       {
@@ -108,7 +92,51 @@
         "cislo": "5",
         "obec": "Prešov",
         "psc": "08005"
-      }
+      },
+      {
+        "nazov": "AQUARUTHENIA s.r.o.  ",
+        "ico": "47566159",
+        "ulica": "SolivarskáK Surdoku",
+        "cislo": "5",
+        "obec": "Prešov",
+        "psc": "08005"
+      },
+      {
+        "nazov": null,
+        "ico": "47566159",
+        "ulica": "SolivarskáK Surdoku",
+        "cislo": "5",
+        "obec": "Prešov",
+        "psc": "08005"
+      },
+      {
+        "ico": "47566159",
+        "ulica": "SolivarskáK Surdoku",
+        "cislo": "5",
+        "obec": "Prešov",
+        "psc": "08005"
+      },
+      {
+        "nazov": "AQUARUTHENIA s.r.o.  "
+      },
+      {
+        "nazov": "AQUARUTHENIA s.r.o.  ",
+        "ico": null,
+        "ulica": null,
+        "cislo": null,
+        "obec": null,
+        "psc": null
+      },
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": null,
+        "cislo": null,
+        "obec": null,
+        "psc": null
+      },
+      {},
+      null
     ],
     "bazeny": [
       {
