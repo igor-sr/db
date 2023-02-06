@@ -28,7 +28,29 @@
         "cislo": " ",
         "obec": null,
         "psc": "91501"
-      }
+      },
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": " ",
+        "cislo": " ",
+        "obec": null,
+        "psc": "91501"
+      },
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": null,
+        "cislo": null,
+        "obec": null,
+        "psc": null
+      },
+      {
+        "nazov": null,
+        "ico": null
+      },
+      {},
+      null
     ],
     "odberneMiesta": [
       {
