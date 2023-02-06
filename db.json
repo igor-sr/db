@@ -28,7 +28,29 @@
         "cislo": " ",
         "obec": null,
         "psc": "91501"
-      }
+      },
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": " ",
+        "cislo": " ",
+        "obec": null,
+        "psc": "91501"
+      },
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": null,
+        "cislo": null,
+        "obec": null,
+        "psc": null
+      },
+      {
+        "nazov": null,
+        "ico": null
+      },
+      {},
+      null
     ],
     "odberneMiesta": [
       {
@@ -38,18 +60,11 @@
         "kvalita": null
       },
       {
-        "nazov": null,
+        "nazov": "Zelená voda",
         "zemepisnaSirka": null,
         "zemepisnaDlzka": null,
         "kvalita": null
-      },
-      {
-        "zemepisnaSirka": null,
-        "zemepisnaDlzka": null,
-        "kvalita": null
-      },
-      {},
-      null
+      }
     ]
   },
   "uk": {
@@ -58,7 +73,7 @@
     "obec": "Svidník",
     "zemepisnaSirka": 49.308662,
     "zemepisnaDlzka": 21.559141,
-    "poznamka": "",
+    "poznamka": null,
     "vybavenost": [
       {
         "nazov": "Dostupnosť pitnej vody",
