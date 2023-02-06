@@ -73,24 +73,27 @@
     "obec": "Svidník",
     "zemepisnaSirka": 49.308662,
     "zemepisnaDlzka": 21.559141,
-    "poznamka": null,
     "vybavenost": [
       {
-        "nazov": "Dostupnosť pitnej vody",
         "hodnota": "-"
       },
       {
-        "nazov": "WC",
-        "hodnota": "31"
+        "nazov": "WC"
       },
       {
-        "nazov": "Sprchy",
+        "nazov": null,
         "hodnota": "16"
       },
       {
         "nazov": "Šatne, Šatňové skrinky",
-        "hodnota": "40"
-      }
+        "hodnota": null
+      },
+      {
+        "nazov": null,
+        "hodnota": null
+      },
+      {},
+      null
     ],
     "ostatneUdaje": {
       "kapacitaKupaliska": 3250,
