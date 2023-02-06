@@ -1,23 +1,24 @@
 {
   "pv": {},
   "pvp": {
-    "nazov": null,
-    "zemepisnaSirka": null,
-    "zemepisnaDlzka": 17,
+    "nazov": "Zelená voda",
+    "zemepisnaSirka": "48.76873",
+    "zemepisnaDlzka": "17.859657",
+    "poznamka": "Pláž Bolt aj Perla - neorganizovaná rekreácia. Odber vzoriek vody zabezpečuje Mesto Nové Mesto n/V a RÚVZ v Trenčíne. Od roku 2015 odber vzoriek vody vykonávaný len z odberného miesta Pláž Bolt.",
     "vybavenost": [
       {
         "nazov": "Dostupnosť pitnej vody",
         "hodnota": null
       },
       {
-        "nazov": "Iná vybavenosť",
         "hodnota": "Pláž Bolt aj Perla - neorganizovaná rekreácia. Odber vzoriek vody zabezpečuje Mesto Nové Mesto n/V a RÚVZ v Trenčíne. Od roku 2015 odber vzoriek vody vykonávaný len z odberného miesta Pláž Bolt."
       }
     ],
     "ostatneUdaje": {
-      "kapacitaKupaliska": null,
-      "vodnaPlochaKupaliska": null,
-      "oddychovaPlocha": null
+      "kapacitaKupaliska": "NULL",
+      "vodnaPlochaKupaliska": "AAAA",
+      "oddychovaPlocha": null,
+      "testValue": 100
     },
     "prevadzkovatelia": [
       {
