@@ -92,51 +92,7 @@
         "cislo": "5",
         "obec": "Prešov",
         "psc": "08005"
-      },
-      {
-        "nazov": "AQUARUTHENIA s.r.o.  ",
-        "ico": "47566159",
-        "ulica": "SolivarskáK Surdoku",
-        "cislo": "5",
-        "obec": "Prešov",
-        "psc": "08005"
-      },
-      {
-        "nazov": null,
-        "ico": "47566159",
-        "ulica": "SolivarskáK Surdoku",
-        "cislo": "5",
-        "obec": "Prešov",
-        "psc": "08005"
-      },
-      {
-        "ico": "47566159",
-        "ulica": "SolivarskáK Surdoku",
-        "cislo": "5",
-        "obec": "Prešov",
-        "psc": "08005"
-      },
-      {
-        "nazov": "AQUARUTHENIA s.r.o.  "
-      },
-      {
-        "nazov": "AQUARUTHENIA s.r.o.  ",
-        "ico": null,
-        "ulica": null,
-        "cislo": null,
-        "obec": null,
-        "psc": null
-      },
-      {
-        "nazov": null,
-        "ico": null,
-        "ulica": null,
-        "cislo": null,
-        "obec": null,
-        "psc": null
-      },
-      {},
-      null
+      }
     ],
     "bazeny": [
       {
@@ -147,47 +103,31 @@
         "kvalita": null
       },
       {
-        "nazov": "Športový bazén",
+        "nazov": null,
         "typBazenuVoda": "Netermálny",
         "typVyuzitia": "Plavecký",
         "stav": "V prevádzke",
         "kvalita": null
       },
       {
-        "nazov": "dojazdový",
         "typBazenuVoda": "Netermálny",
         "typVyuzitia": "Plavecký",
         "stav": "V prevádzke",
         "kvalita": null
       },
       {
-        "nazov": "Relaxačný masážny ",
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Plavecký",
-        "stav": "V prevádzke",
+        "nazov": null,
+        "typBazenuVoda": null,
+        "typVyuzitia": null,
+        "stav": null,
         "kvalita": null
       },
       {
         "nazov": "bazén s umelými vlnami",
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Plavecký",
-        "stav": "V prevádzke",
-        "kvalita": null
+        "typBazenuVoda": "Netermálny"
       },
-      {
-        "nazov": "Plavecký",
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Plavecký",
-        "stav": "V prevádzke",
-        "kvalita": null
-      },
-      {
-        "nazov": "Oddychový bazén",
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Neplavecký",
-        "stav": "V prevádzke",
-        "kvalita": null
-      }
+      {},
+      null
     ],
     "poznamky": null
   }
