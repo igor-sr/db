@@ -77,12 +77,7 @@
       {},
       null,
       {
-        "nazov": "CISLO 2",
-        "ico": "47566159",
-        "ulica": "SolivarskáK Surdoku",
-        "cislo": "5",
-        "obec": "Prešov",
-        "psc": "08005"
+        "nazov": "CISLO 2"
       },
       {},
       null,
@@ -103,13 +98,7 @@
         "stav": "V prevádzke",
         "kvalita": null
       },
-      {
-        "nazov": null,
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Plavecký",
-        "stav": "V prevádzke",
-        "kvalita": null
-      },
+      null,
       {
         "typBazenuVoda": "Netermálny",
         "typVyuzitia": "Plavecký",
