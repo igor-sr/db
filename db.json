@@ -19,34 +19,7 @@
       "vodnaPlochaKupaliska": "AAAA",
       "oddychovaPlocha": null,
       "testValue": 100
-    },
-    "prevadzkovatelia": [
-      {
-        "nazov": "Mesto Nové Mesto nad Váhom",
-        "ico": null,
-        "ulica": " ",
-        "cislo": " ",
-        "obec": null,
-        "psc": "91501"
-      },
-      null
-    ],
-    "odberneMiesta": [
-      {
-        "nazov": "Zelená voda",
-        "zemepisnaSirka": null,
-        "zemepisnaDlzka": null,
-        "kvalita": null
-      },
-      {},
-      null,
-      {
-        "nazov": "Zelená voda",
-        "zemepisnaSirka": null,
-        "zemepisnaDlzka": null,
-        "kvalita": null
-      }
-    ]
+    }
   },
   "uk": {
     "nazov": "Letný areál AQUARUTHENIA Svidník",
@@ -66,58 +39,8 @@
       "testValue": "test"
     },
     "prevadzkovatelia": [
-      {
-        "nazov": "AQUARUTHENIA s.r.o.  ",
-        "ico": "47566159",
-        "ulica": "SolivarskáK Surdoku",
-        "cislo": "5",
-        "obec": "Prešov",
-        "psc": "08005"
-      },
-      {},
-      null,
-      {
-        "nazov": "CISLO 2"
-      },
-      {},
-      null,
-      {
-        "nazov": null,
-        "ico": null,
-        "ulica": null,
-        "cislo": null,
-        "obec": null,
-        "psc": null
-      }
     ],
     "bazeny": [
-      {
-        "nazov": "Detský",
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Pre deti",
-        "stav": "V prevádzke",
-        "kvalita": null
-      },
-      null,
-      {
-        "typBazenuVoda": "Netermálny",
-        "typVyuzitia": "Plavecký",
-        "stav": "V prevádzke",
-        "kvalita": null
-      },
-      {
-        "nazov": null,
-        "typBazenuVoda": null,
-        "typVyuzitia": null,
-        "stav": null,
-        "kvalita": null
-      },
-      {
-        "nazov": "bazén s umelými vlnami",
-        "typBazenuVoda": "Netermálny"
-      },
-      {},
-      null
     ],
     "poznamky": null
   }
