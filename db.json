@@ -51,9 +51,9 @@
   "uk": {
     "nazov": "Letný areál AQUARUTHENIA Svidník",
     "datumUvedenia": "1900-01-01",
-    "obec": "Svidník",
     "zemepisnaSirka": 49.308662,
-    "zemepisnaDlzka": 21.559141,
+    "zemepisnaDlzka": null,
+    "test": "test",
     "vybavenost": [
       {
         "hodnota": "-"
