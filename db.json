@@ -92,6 +92,26 @@
         "cislo": "5",
         "obec": "Prešov",
         "psc": "08005"
+      },
+      {},
+      null,
+      {
+        "nazov": "CISLO 2",
+        "ico": "47566159",
+        "ulica": "SolivarskáK Surdoku",
+        "cislo": "5",
+        "obec": "Prešov",
+        "psc": "08005"
+      },
+      {},
+      null,
+      {
+        "nazov": null,
+        "ico": null,
+        "ulica": null,
+        "cislo": null,
+        "obec": null,
+        "psc": null
       }
     ],
     "bazeny": [
