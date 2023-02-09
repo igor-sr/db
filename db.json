@@ -1,25 +1,56 @@
 {
   "pv": {},
   "pvp": {
-    "nazov": "Zelená voda",
-    "zemepisnaSirka": "48.76873",
-    "zemepisnaDlzka": "17.859657",
-    "poznamka": "Pláž Bolt aj Perla - neorganizovaná rekreácia. Odber vzoriek vody zabezpečuje Mesto Nové Mesto n/V a RÚVZ v Trenčíne. Od roku 2015 odber vzoriek vody vykonávaný len z odberného miesta Pláž Bolt.",
-    "vybavenost": [
-      {
-        "nazov": "Dostupnosť pitnej vody",
-        "hodnota": null
-      },
-      {
-        "hodnota": "Pláž Bolt aj Perla - neorganizovaná rekreácia. Odber vzoriek vody zabezpečuje Mesto Nové Mesto n/V a RÚVZ v Trenčíne. Od roku 2015 odber vzoriek vody vykonávaný len z odberného miesta Pláž Bolt."
-      }
+    "nazov":"Plážové kúpalisko Rimavská Sobota",
+    "zemepisnaSirka":48.38416,
+    "zemepisnaDlzka":20.003464,
+    "poznamka":"Prírodné kúpalisko má prevádzkovateľa - Technické služby mesta Rimavská Sobota.",
+    "vybavenost":[
+       {
+          "nazov":"Dostupnosť pitnej vody",
+          "hodnota":null
+       },
+       {
+          "nazov":"WC",
+          "hodnota":"6"
+       },
+       {
+          "nazov":"Sprchy",
+          "hodnota":"12"
+       },
+       {
+          "nazov":"Šatne, Šatňové skrinky",
+          "hodnota":"4"
+       },
+       {
+          "nazov":"Iná vybavenosť",
+          "hodnota":"Prírodné kúpalisko má prevádzkovateľa - Technické služby mesta Rimavská Sobota."
+       }
     ],
-    "ostatneUdaje": {
-      "kapacitaKupaliska": "NULL",
-      "vodnaPlochaKupaliska": "AAAA",
-      "oddychovaPlocha": null,
-      "testValue": 100
-    }
+    "ostatneUdaje":{
+       "kapacitaKupaliska":null,
+       "vodnaPlochaKupaliska":null,
+       "oddychovaPlocha":null
+    },
+    "prevadzkovatelia":[
+       {
+          "nazov":"Technické služby mesta Rimavská Sobota",
+          "ico":"410365",
+          "ulica":"Športová",
+          "cislo":"16",
+          "obec":"Rimavská Sobota",
+          "psc":"97901"
+       }
+    ],
+    "odberneMiesta":[
+       {
+          "nazov":"Plážové kúpalisko",
+          "zemepisnaSirka":null,
+          "zemepisnaDlzka":null,
+          "kvalita":null
+       }
+    ]
+ }
   },
   "uk": {
     "nazov": "Letný areál AQUARUTHENIA Svidník",
